@@ -1,0 +1,19 @@
+html {
+    --home-color: ,
+
+}
+
+html [data-theme = 'dark'] {
+    --home-color: 
+}
+
+#navHome {
+    color:red;
+    width: 100%;
+    height: 15%;
+    display: block;
+}
+#toggle-theme{
+    display: none;
+    
+}
